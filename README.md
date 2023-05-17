@@ -1,5 +1,7 @@
 # Einreise
-Fehler und Versionsnummer unseres Scripts "SN-Einreise"
+### Beschreibung
+#### ✅Notification
+#### ✅Verschiedene Groups
 ### .
 # Unsere Discords
 ## SN-Service.io
