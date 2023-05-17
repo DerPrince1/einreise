@@ -1,10 +1,9 @@
 ---
 name: Bugreport
 about: Erstelle einen Report damit wir über den Fehler Bescheid wissen
-title: ''
+title: 'Bugreport'
 labels: ''
 assignees: ''
-
 ---
 
 **Beschreibung des Bugs**
