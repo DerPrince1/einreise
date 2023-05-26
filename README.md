@@ -14,4 +14,4 @@ https://discord.gg/snshield-io
 https://sn-service-store.tebex.io
 # Buy
 ### Via Tebex
-Kategorie "Free" -- https://sn-service-store.tebex.io/category/free
+Kategorie "Scripts" -- https://sn-service-store.tebex.io/category/scripts-1
